@@ -22,3 +22,7 @@
 
     vertical-align: middle;
 }
+
+.header-menu__button .button__text::before {
+    filter: brightness(0) invert(1);
+}
